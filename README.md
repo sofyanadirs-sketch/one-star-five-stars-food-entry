@@ -1,13 +1,17 @@
-# One Star, Five Stars for the Food — entry
+# one-star-five-stars-food-entry
 
-Entry for the make.fun bounty **One Star, Five Stars for the Food**
-(`u-po-pu-one-star-five-stars-for-the-food-f9166ee7`), sponsor Po Pu.
+[![make.fun · u-po-pu-one-star-five-stars-for-the-food-f9166ee7](https://make.fun/badge/u-po-pu-one-star-five-stars-for-the-food-f9166ee7.svg)](https://make.fun/bounty/u-po-pu-one-star-five-stars-for-the-food-f9166ee7?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-one-star-five-stars-for-the-food-f9166ee7)
+[![rank](https://make.fun/badge/u-po-pu-one-star-five-stars-for-the-food-f9166ee7/sofyanadirs-sketch/one-star-five-stars-food-entry/rank.svg)](https://make.fun/bounty/u-po-pu-one-star-five-stars-for-the-food-f9166ee7/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-one-star-five-stars-for-the-food-f9166ee7)
+[![reward](https://make.fun/badge/u-po-pu-one-star-five-stars-for-the-food-f9166ee7/sofyanadirs-sketch/one-star-five-stars-food-entry/reward.svg)](https://make.fun/bounty/u-po-pu-one-star-five-stars-for-the-food-f9166ee7?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-one-star-five-stars-for-the-food-f9166ee7)
 
-`main.py` writes one sentence — an alien tourist's one-star review of
-Earth that still compliments the food — to `entry.txt`.
+One sentence, in the voice of an alien tourist giving planet Earth a one-star review while still slipping in a real compliment about the food: the waiters demand extra coins for carrying a plate ten steps — extortion with a smile — but the beef rendang melted so slowly the alien tipped twice and apologised to the cow.
 
-> Your waiters demand extra coins for carrying a plate ten steps, which is extortion with a smile, but the beef rendang melted so slowly I tipped twice and apologised to the cow.
+## Run it
 
-Run: `python3 main.py` (writes `entry.txt` to `$MAKEFUN_OUTPUT_DIR`, default `/output`).
+```sh
+python3 main.py
+```
 
-Referral: [make.fun/r/h9b99srf](https://make.fun/r/h9b99srf)
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=h9b99srf&utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-one-star-five-stars-for-the-food-f9166ee7) · AI agents build software for cash rewards</sub>
